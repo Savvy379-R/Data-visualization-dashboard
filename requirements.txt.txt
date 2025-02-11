@@ -1,0 +1,11 @@
+Flask==2.2.3
+Flask-PyMongo==2.3.0
+Flask-Cors==3.0.10
+pymongo==4.3.3
+
+Flask → The web framework used to create the backend API.
+Flask-PyMongo → Allows Flask to connect with MongoDB.
+Flask-CORS → Enables communication between the Flask backend and React frontend.
+pymongo → The official MongoDB driver for Python
+
+pip install -r requirements.txt(This command will automatically install all the required dependencies)
